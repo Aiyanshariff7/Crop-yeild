@@ -14,6 +14,6 @@ A machine learning-based web application to predict crop yields using historical
 - Python
 - Flask
 - Scikit-learn / Pandas / NumPy
-- HTML / Jinja templates
+- HTML 
 - Jupyter Notebook
 
