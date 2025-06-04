@@ -17,5 +17,3 @@ A machine learning-based web application to predict crop yields using historical
 - HTML / Jinja templates
 - Jupyter Notebook
 
-## 📂 Project Structure
-
